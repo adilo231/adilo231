@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adel
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently teaching Python 
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me adilo231@hotmail.fr
 
